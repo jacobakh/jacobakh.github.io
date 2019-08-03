@@ -3,15 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Jacob Akhmerov"
+name: "Yakub Akhmerov"
 
 # Short bio or description (displayed in the header)
-description: "Born: Yakub Akhmerov in Moscow, Russia. Professionally known as Jacob. 
+description: "Born in Moscow, Russia. 
 Data Scientist, based in the Greater Los Angeles area. Hold's a Bachelor's degree 
-in Statistics from the University of California, Berkeley."
+in Statistics from the University of California, Berkeley. Hobbies include surfing, salsa dancing, and 
+calming down my german shepherd"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: "https://i.imgur.com/EThL8P8.jpg"
 
 #
 # Flags below are optional
@@ -43,7 +44,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "http://jacobakh.github.io"
+url: "http://akhmerov.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
